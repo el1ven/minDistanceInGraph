@@ -1,4 +1,4 @@
-public class MinDistance {
+public class Dijstra{
 
     private static int[][] adjMatrix;//邻接矩阵
     private static int numOfNodes;//节点数量
